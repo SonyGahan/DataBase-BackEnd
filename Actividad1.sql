@@ -1,0 +1,1 @@
+SELECT * FROM dpersonales.usuarios;
